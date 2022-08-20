@@ -1,2 +1,3 @@
 # Algorithms
-All the algorithms 
+These are the solutions to various problems in AZ platform
+
